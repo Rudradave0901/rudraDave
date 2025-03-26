@@ -1,0 +1,4 @@
+:root {
+    --theme-color: #f021b2;
+    --img-theme-color: brightness(0) saturate(100%) invert(26%) sepia(100%) saturate(2253%) hue-rotate(298deg) brightness(92%) contrast(105%);
+}
